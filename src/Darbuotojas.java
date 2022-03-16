@@ -6,6 +6,8 @@ public class Darbuotojas
     private String pavarde;
     private String pareigos;
     private Double alga;
+    private String vidurinisVardas;
+    private String kraujoGrupė;
 
     // Sugeneruojamas tuščias konstruktorius
     public Darbuotojas()
