@@ -8,6 +8,8 @@ public class Darbuotojas
     private Double alga;
     private String vidurinisVardas;
     private String kraujoGrupė;
+    private int papildomasSkaicius;
+    private double kaina;
 
     // Sugeneruojamas tuščias konstruktorius
     public Darbuotojas()
